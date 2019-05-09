@@ -1,0 +1,18 @@
+# links section data
+- last_name: Tanasijevik
+  first_name: Marko
+  desc: Designer
+  website: https://www.google.com
+  email: tanasijevik.marko@gmail.com
+
+- last_name: Partner 1
+  first_name: Project 
+  desc: Project helper
+  website: http://www.jarrekk.com/donate/
+  email: tanasijevik.marko@gmail.com
+
+- last_name: Partner
+  first_name: Project
+  desc: Project helper
+  website: https://github.com
+  email: coo@google.com

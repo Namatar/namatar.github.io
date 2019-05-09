@@ -1,0 +1,26 @@
+# blog page sections
+- name: Blog
+  href: /blog/
+
+# edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
+- name: Current projects
+  href: /current_projects/
+
+- name: Vehicle design
+  href: /vehicle_design/
+
+- name: Furniture design
+  href: /furniture_design/
+
+- name: Wearables design
+  href: /wearables_design/
+
+- name: Place holder
+  href: /Place_holder1/
+
+- name: Life
+  href: /life/
+  
+# Don't display donation page: change donation to off at file '_config.yml'
+- name: Donate
+  href: /donate/

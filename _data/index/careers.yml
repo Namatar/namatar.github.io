@@ -1,0 +1,73 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Student at MFS
+    i18n: company_a
+  desc:
+    detail: Studying at Masinski fakultet Skopje
+    i18n: company_a_desc
+  date:
+    detail: 2017-2019 
+    i18n: company_a_date
+  job:
+    detail: 
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Eka
+    i18n: company_b
+  desc:
+    detail: Part time worker.
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2019
+    i18n: company_b_date
+  job:
+    detail: Part timer
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+
+- name:
+    detail: Place holder
+    i18n: company_b
+  desc:
+    detail: Place holder...
+    i18n: company_b_desc
+  date:
+    detail: Date NUM.
+    i18n: company_b_date
+  job:
+    detail: Place holder
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+
+- name:
+    detail: Place holder
+    i18n: company_b
+  desc:
+    detail: Place holder...
+    i18n: company_b_desc
+  date:
+    detail: Date NUM.
+    i18n: company_b_date
+  job:
+    detail: Place holder
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Place holder
+    i18n: company_b
+  desc:
+    detail: Place holder...
+    i18n: company_b_desc
+  date:
+    detail: Date NUM.
+    i18n: company_b_date
+  job:
+    detail: Place holder
+    i18n: company_b_job
+  icon: fa-plus-square
